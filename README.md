@@ -25,9 +25,6 @@
 #### Average Profit by Discount Range 
 ![avg profit by discount range](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas/blob/main/Images/average%20profit%20by%20discount%20range.png?raw=true)
 
-#### Profit by Sub Category
-![profit by sub category](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas/blob/main/Images/profit_by_sub_category.png?raw=true)
-
 #### Yearly Sale Profit
 ![yearly sale profit](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas/blob/main/Images/yearly_sales_profit.png?raw=true)
 
