@@ -1,7 +1,7 @@
 # E-commerce Sales Analysis 
 ![image](https://polarbackup.com/wp-content/uploads/2024/07/ECommerce.jpg)
 
-## 📊 E-commerce Sales Analysis – Key Insights  
+## E-commerce Sales Analysis – Key Insights :-
 
 |  Area               |  Key Insights |
 |------------------------|-----------------|
@@ -14,8 +14,7 @@
 | **Regional Performance** | **West Region** contributes the **largest share of sales** among all regions. |
 
 ---
-
-✨ *These insights reveal profitable categories, optimal discount ranges, and key customer segments, enabling data-driven business strategies.*  
+ 
 
 
 #### Monthly Sales Analysis
