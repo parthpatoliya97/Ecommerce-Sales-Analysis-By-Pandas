@@ -1,6 +1,23 @@
 # E-commerce Sales Analysis 
 ![image](https://polarbackup.com/wp-content/uploads/2024/07/ECommerce.jpg)
 
+## 📊 E-commerce Sales Analysis – Key Insights  
+
+| 📌 Area               | 🔑 Key Insights |
+|------------------------|-----------------|
+| 📅 **Seasonal Trends** | Sales peak in **November & December**; **December brings the highest profit**. |
+| 📦 **Product Profitability** | **Copiers** generate the highest profit, followed by **Phones**. <br> **Chairs & Copiers** have relatively lower sales volume. |
+| 🏷️ **Category Performance** | **Technology** dominates in both sales & profit, followed by **Furniture**. |
+| 👥 **Customer Segments** | **Consumers** contribute the majority of sales & profit compared to Corporate and Home Office. |
+| 💸 **Discount Impact** | **0–10% discount** range yields the **highest profit**. Higher discounts reduce profitability sharply. |
+| 📈 **Yearly Growth** | **Sales consistently increase year-over-year**, indicating strong growth. |
+| 🌍 **Regional Performance** | **West Region** contributes the **largest share of sales** among all regions. |
+
+---
+
+✨ *These insights reveal profitable categories, optimal discount ranges, and key customer segments, enabling data-driven business strategies.*  
+
+
 #### Monthly Sales Analysis
 ![monthly sales analysis](https://github.com/parthpatoliya97/Ecommerce-Sales-Analysis-By-Pandas/blob/main/Images/monthly_sales.png?raw=true)
 
